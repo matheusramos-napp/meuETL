@@ -1,0 +1,5 @@
+Nome: El Shaddoll Winda
+Tipo: Fusion Monster
+Atributo: DARK
+Raça: Spellcaster
+Link Imagem: https://storage.googleapis.com/ygoprodeck.com/pics/94977269.jpg

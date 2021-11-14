@@ -1,0 +1,5 @@
+Nome: Dark Magician
+Tipo: Normal Monster
+Atributo: DARK
+Raça: Spellcaster
+Link Imagem: https://storage.googleapis.com/ygoprodeck.com/pics/36996508.jpg
